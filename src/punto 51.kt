@@ -3,5 +3,5 @@ fun main(){
     val a= readLine()!!
     val b= a.length
     val c= a[b-2]
-    print("LA penultima palabra fue: $c")
+    print("La penultima palabra fue: $c")
 }
