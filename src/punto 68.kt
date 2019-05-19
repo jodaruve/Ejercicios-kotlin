@@ -26,4 +26,4 @@ fun main(){
        inicio+=1
     }
     print("Los numero paraes fueron: $pares \nLos numeros impares fueron: $impares \nLa cantida de positivos fueron:$postivos \nLa cantida de negativos fueron: $negativos \nY por ultimo la cantida de multiplos de 8 fueron: $multi8")
-}9
+}
